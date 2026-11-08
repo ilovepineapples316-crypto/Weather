@@ -1,0 +1,439 @@
+body{
+    background-color: hsl(243, 96%, 9%);
+}
+.btn{
+    background-color: hsl(243, 23%, 30%);
+    width: 105px;
+    height: 38px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-left: 600px;
+    
+}
+
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.btn img{
+    width: 15px;
+    height: 15px;
+}
+
+
+.div2 h1{
+    font-size: 55px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.inp1{
+    background-color: hsl(243, 23%, 30%);
+    border-radius: 15px;
+    border: none;
+    height: 15px;
+    width: 330px;
+    padding: 15px;
+}
+.btn1{
+    background-color: hsl(233, 67%, 56%);
+    border-radius: 15px;
+    height: 46px;
+    width: 90px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    margin-right: 130px;
+}
+
+.h1{
+    color: white;
+    font-size: 35px;
+    position: relative;
+    top: 110px;
+    left: 275px;
+}
+.div4{
+    position: absolute;
+}
+.h2{
+    color: white;
+    font-size: 90px;
+    position: relative;
+    left: 820px;
+    bottom: 50px;
+}
+span{
+    color: rgb(170, 167, 167);
+    font-size: 23px;
+}
+.a{
+    position: relative;
+    bottom: 220px;
+    left: 650px;
+    width: 120px;
+    height: 120px;
+}
+.container2{
+    display: flex;
+}
+.forecast{
+    background-color: hsl(242, 26%, 26%);
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: none;
+    margin-left: 30px;
+    padding: 15px;
+    margin-top: 25px;
+}
+h4{
+    color: white;
+    font-size: 21px;
+    position: relative;
+    bottom: 7px;
+}
+.hourly{
+    display: flex;
+
+}
+.hourly button{
+    background-color: hsl(244, 23%, 43%);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    width: 105px;
+    height: 30px;
+    position: relative;
+    top: 20px;
+    left: 45px;
+}
+.box1 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+}
+
+.cast{
+    width: 40px;
+    height: 40px;
+
+}
+.pm{
+    color: white;
+    font-size: 18px;
+  
+}
+.degree {
+    color: white;
+    margin-left: auto;
+    margin-right: 15px;
+    font-size: 18px;
+}
+.box2 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.box3 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.box4 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.box5 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.box6 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.box7 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+
+.box8 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+
+.box9 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+
+.box10 {
+    background-color: hsl(242, 25%, 38%);
+    width: 300px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.bebo{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.imgdiv{
+    margin-left: 255px;
+    margin-top: 25px;
+    display: block;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.boxdiv1 {
+    width: 160px;
+    height: 100px;
+    background-color: hsl(242, 26%, 26%);
+    margin-left: 255px;
+    border-radius: 8px;
+    border: none;
+    padding: 2px;
+}
+.feel{
+    margin-left: 10px;
+    color: white;
+    font-size: 18px;
+    color: rgb(194, 193, 193);
+}
+
+.like{
+    font-size: 22px;
+    color: white;
+    margin-left: 10px;
+}
+
+.divcontainer {
+    display: flex;
+    gap: 25px;
+    margin-top: 15px;
+}
+
+.boxdiv2 {
+    width: 160px;
+    height: 100px;
+    background-color: hsl(242, 26%, 26%);
+    border-radius: 8px;
+    border: none;
+    padding: 2px;
+}
+
+.weatherbox1{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+     
+}
+
+.daily{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 435px;
+    left: 255px;
+}
+
+.tue{
+    color: white;
+    font-size: 18px;
+}
+
+.rain{
+    width: 60px;
+    height: 60px;
+}
+
+.degrees{
+    color: white;
+    margin-left: 3px;
+}
+
+.text{
+    display: flex;
+    gap: 25px;
+}
+
+.divcontainer2{
+    display: flex;
+    gap: 15px;
+    margin-left: 256px;
+}
+.weatherbox2{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+     
+}
+
+.weatherbox3{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+     
+}.weatherbox4{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+}
+.weatherbox5{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+     
+}
+.weatherbox6{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+          margin-top: 50px;
+     
+}
+.weatherbox7{
+     background-color: hsl(242, 26%, 26%);
+     height: 160px;
+     width: 80px;
+     border-radius: 8px;
+     border: none;
+     text-align: center;
+     padding: 3px;
+     align-items: center;
+     margin-top: 50px;
+}
+.position{
+    position: absolute;
+}
+
+.weathernow{
+    position: relative;
+    right: 260px;
+}
+.div1{
+    position: relative;
+}
